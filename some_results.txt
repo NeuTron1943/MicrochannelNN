@@ -1,3 +1,7 @@
 Fully connected net:     |  batch size | epoches     | accuracy | convolutional  | batch size  | epoches     | accuracy |
 PD077_data_0_coord  lin: |     800     |     100     |   75.18  |          conv: |     800     |     100     |   71.88  |
 PD077_data_0_coord  lin: |     800     |     100     |   76.48  |          conv: |     800     |     100     |   74.19  |
+PD077_data_0_coord  lin: |     800     |     100     |   76.05  |          conv: |     800     |     100     |   74.89  |
+PD077_data_0_coord  lin: |     800     |     100     |   75.15  |          conv: |     800     |     100     |   72.20  |
+PD110_time_no_empty  lin: |   29600     |     100     |   60.23  |          conv: |   29600     |     100     |   61.17  |
+PD114_time_inv_0coord  lin: |     400     |     150     |   90.91  |          conv: |     400     |     150     |   90.41  |
